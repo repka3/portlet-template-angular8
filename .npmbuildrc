@@ -1,0 +1,18 @@
+{
+	"translatorTextKey": "",
+	"supportedLocales": [],
+	"liferayDir": "/home/luna/IdeaProjects/testVariLiferay7.2/bundles",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\/.*\\.ts$",
+				"use": "ts-loader"
+			}
+		],
+		"extensions": [
+			".ts",
+			".js"
+		],
+		"mainModule": "index.ts"
+	}
+}
