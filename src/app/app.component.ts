@@ -13,14 +13,14 @@ export class AppComponent {
 	labels: any;
 
 	constructor(private router: Router) {
-		this.labels = {        
-			
+		this.labels = {
 			configuration: Liferay.Language.get('configuration'),
-			
 			portletNamespace: Liferay.Language.get('portlet-namespace'),
         	contextPath: Liferay.Language.get('context-path'),
 			portletElementId: Liferay.Language.get('portlet-element-id'),
 		}
+		/*TODO: change to your "default path". Or if you find a way to make router default working under liferay
+		*  7.2 let me know here ! alessio.lunardelli@extrasys.it */
 		this.router.navigateByUrl("/component1");
 	}
 
