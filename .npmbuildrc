@@ -1,7 +1,7 @@
 {
 	"translatorTextKey": "",
 	"supportedLocales": [],
-	"liferayDir": "/home/luna/IdeaProjects/testVariLiferay7.2/bundles",
+	"liferayDir": "./../../bundles/",
 	"webpack": {
 		"rules": [
 			{
