@@ -1,8 +1,8 @@
 # portlet-template-angular8
 
-Portlet Template Angular8 in Liferay 7.2
+Portlet Template Angular8 in Liferay 7.2 - 7.2.1(ga2)
 
-Angular ~8.2.14 for Liferay 7.2
+Angular ~8.2.14 for Liferay 7.2-7.2.1(ga2)
 
 Material and Routing already included.
 
